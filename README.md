@@ -1,7 +1,7 @@
 # Jeu du Sudoku
 ## Projet développé en Java, 1ère annnée de BUT Informatique
 
-Ce dépôt GitHub contient le code source du jeu du Sudoku écrit en Java.
+Ce dépôt GitHub contient le code source du jeu du Sudoku écrit en Java accompagné d'une JavaDoc.
 
 
 ## Fonctionnalités
