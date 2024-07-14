@@ -39,7 +39,6 @@ Ce dépôt GitHub contient le code source du jeu du Sudoku écrit en Java.
     ```bash
    make run1
 
-    ```bash
    make run2
 
 ## Contrôles
