@@ -44,7 +44,7 @@ Ce dépôt GitHub contient le code source du jeu du Sudoku écrit en Java accomp
 ## Contrôles
 
 - Utilisez les touches directionnelles (haut, bas, gauche, droite) pour changer de case.
-- Ou encore directement avec les souris.
+- Ou encore directement avec la souris.
 
 
    
